@@ -9,6 +9,8 @@
 #
 # This code is an example for reading an EV3 color sensor connected to PORT_1 of the BrickPi3
 # 
+# Code for WEDO : Adel - Juan - Fernando 
+#
 # Hardware: Connect an EV3 or NXT touch sensor to BrickPi3 Port 1.
 # 
 # Results:  When you run this program, you should see a 0 when the touch sensor is not pressed, and a 1 when the touch sensor is pressed.
